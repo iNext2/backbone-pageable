@@ -1,6 +1,8 @@
 backbone-pageable
 =================
 
+under development
+
 |travis-status|_
 
 A pageable, drop-in replacement for Backbone.Collection inspired by
